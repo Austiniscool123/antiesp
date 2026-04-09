@@ -1,0 +1,4 @@
+name: AntiESP
+version: 1.0
+main: me.antiesp.Main
+api-version: 1.21
